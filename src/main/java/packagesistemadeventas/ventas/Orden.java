@@ -20,4 +20,23 @@ public class Orden {
             System.out.println("Se superó el máximo de productos: "
             + Orden.MAX_PRODUCTOS);
     }
+
+    public double calcularTotal(){
+        double total = 0;
+        for (int i = 0; i < this.contadorProductos; i++) {
+            Producto producto = this.productos[i];
+            total += producto.getPrecio();
+        }
+        return total;
+    }
+
+    public void mostrarOrden(){
+        System.out.println("Id Orden: " + this.idOrden);
+        double totalOrden = this.calcularTotal();
+        System.out.println("\tTotal de la orden: $"+ totalOrden);
+        System.out.println("Productos de la Orden: ");
+        for (int i = 0; i < this.contadorProductos; i++) {
+            System.out.println("\t\t" + this.productos[i]);
+        }
+    }
 }
