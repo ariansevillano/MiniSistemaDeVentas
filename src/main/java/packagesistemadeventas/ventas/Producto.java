@@ -3,35 +3,24 @@ package packagesistemadeventas.ventas;
 import packagesistemadeventas.ventas.Producto;
 
 public class Producto {
-    private static int contador = 0;
-    private int idProducto;
+    private final int idProducto;
     private String nombre;
     private double precio;
+    private static int contadorProductos;
 
-    public Producto() {
-    }
 
     public Producto(String nombre, double precio) {
-        Producto.contador++;
-        this.idProducto = Producto.contador;
+        this.idProducto = ++Producto.contadorProductos;
         this.nombre = nombre;
         this.precio = precio;
     }
 
-    public static int getContador() {
-        return contador;
-    }
-
     public int getIdProducto() {
-        return idProducto;
-    }
-
-    public void setIdProducto(int idProducto) {
-        this.idProducto = idProducto;
+        return this.idProducto;
     }
 
     public String getNombre() {
-        return nombre;
+        return this.nombre;
     }
 
     public void setNombre(String nombre) {
@@ -39,7 +28,7 @@ public class Producto {
     }
 
     public double getPrecio() {
-        return precio;
+        return this.precio;
     }
 
     public void setPrecio(double precio) {
