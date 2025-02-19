@@ -38,3 +38,198 @@ MaxPrintPages = 4294967295
 GdiPlusToken = 25868140
 ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
 18-02-2025	20:39:15.328	 INFO	 26860	 32016	LateInitialization	"Intialization finished"
+18-02-2025	20:41:22.303	 INFO	 31476	 29424	DllMain	"DLL_PROCESS_ATTACH Mon Oct  7 21:44:09 2024 11.3.2428.18"
+18-02-2025	20:41:22.306	 INFO	 31476	 29424	DllMain	"PROCESS ATTACHED"
+18-02-2025	20:41:22.307	 INFO	 31476	 34020	LateInitialization	"Intialization..."
+18-02-2025	20:41:22.308	 INFO	 31476	 34020	LoadDisplayDevicesName	"DisplayDevices : "
+18-02-2025	20:41:22.310	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY1"
+18-02-2025	20:41:22.311	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY2"
+18-02-2025	20:41:22.312	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY3"
+18-02-2025	20:41:22.313	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY4"
+18-02-2025	20:41:22.314	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY5"
+18-02-2025	20:41:22.315	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY6"
+18-02-2025	20:41:22.317	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY7"
+18-02-2025	20:41:22.317	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY8"
+18-02-2025	20:41:22.318	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY9"
+18-02-2025	20:41:22.320	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY10"
+18-02-2025	20:41:22.321	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY11"
+18-02-2025	20:41:22.321	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY12"
+18-02-2025	20:41:22.322	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY13"
+18-02-2025	20:41:22.323	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY14"
+18-02-2025	20:41:22.324	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY15"
+18-02-2025	20:41:22.325	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY16"
+18-02-2025	20:41:22.326	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY17"
+18-02-2025	20:41:22.327	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY18"
+18-02-2025	20:41:22.327	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY19"
+18-02-2025	20:41:22.328	 INFO	 31476	 34020	LoadDisplayDevicesName	"\\.\DISPLAY20"
+18-02-2025	20:41:22.331	ERROR	 31476	 34020	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+18-02-2025	20:41:22.331	 INFO	 31476	 34020	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 25995140
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+18-02-2025	20:41:22.332	 INFO	 31476	 34020	LateInitialization	"Intialization finished"
+18-02-2025	20:49:49.182	 INFO	 34156	 24720	DllMain	"DLL_PROCESS_ATTACH Mon Oct  7 21:44:09 2024 11.3.2428.18"
+18-02-2025	20:49:49.185	 INFO	 34156	 24720	DllMain	"PROCESS ATTACHED"
+18-02-2025	20:49:49.187	 INFO	 34156	 32024	LateInitialization	"Intialization..."
+18-02-2025	20:49:49.188	 INFO	 34156	 32024	LoadDisplayDevicesName	"DisplayDevices : "
+18-02-2025	20:49:49.189	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY1"
+18-02-2025	20:49:49.190	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY2"
+18-02-2025	20:49:49.191	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY3"
+18-02-2025	20:49:49.192	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY4"
+18-02-2025	20:49:49.193	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY5"
+18-02-2025	20:49:49.194	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY6"
+18-02-2025	20:49:49.196	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY7"
+18-02-2025	20:49:49.197	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY8"
+18-02-2025	20:49:49.198	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY9"
+18-02-2025	20:49:49.199	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY10"
+18-02-2025	20:49:49.200	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY11"
+18-02-2025	20:49:49.201	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY12"
+18-02-2025	20:49:49.202	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY13"
+18-02-2025	20:49:49.204	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY14"
+18-02-2025	20:49:49.205	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY15"
+18-02-2025	20:49:49.206	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY16"
+18-02-2025	20:49:49.208	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY17"
+18-02-2025	20:49:49.209	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY18"
+18-02-2025	20:49:49.211	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY19"
+18-02-2025	20:49:49.213	 INFO	 34156	 32024	LoadDisplayDevicesName	"\\.\DISPLAY20"
+18-02-2025	20:49:49.223	ERROR	 34156	 32024	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+18-02-2025	20:49:49.224	 INFO	 34156	 32024	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 26502046
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+18-02-2025	20:49:49.225	 INFO	 34156	 32024	LateInitialization	"Intialization finished"
+18-02-2025	20:50:39.592	 INFO	 34840	 27572	DllMain	"DLL_PROCESS_ATTACH Mon Oct  7 21:44:09 2024 11.3.2428.18"
+18-02-2025	20:50:39.596	 INFO	 34840	 27572	DllMain	"PROCESS ATTACHED"
+18-02-2025	20:50:39.597	 INFO	 34840	 35304	LateInitialization	"Intialization..."
+18-02-2025	20:50:39.598	 INFO	 34840	 35304	LoadDisplayDevicesName	"DisplayDevices : "
+18-02-2025	20:50:39.599	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY1"
+18-02-2025	20:50:39.599	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY2"
+18-02-2025	20:50:39.600	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY3"
+18-02-2025	20:50:39.601	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY4"
+18-02-2025	20:50:39.602	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY5"
+18-02-2025	20:50:39.603	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY6"
+18-02-2025	20:50:39.604	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY7"
+18-02-2025	20:50:39.605	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY8"
+18-02-2025	20:50:39.606	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY9"
+18-02-2025	20:50:39.607	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY10"
+18-02-2025	20:50:39.608	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY11"
+18-02-2025	20:50:39.609	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY12"
+18-02-2025	20:50:39.611	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY13"
+18-02-2025	20:50:39.612	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY14"
+18-02-2025	20:50:39.613	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY15"
+18-02-2025	20:50:39.614	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY16"
+18-02-2025	20:50:39.615	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY17"
+18-02-2025	20:50:39.616	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY18"
+18-02-2025	20:50:39.616	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY19"
+18-02-2025	20:50:39.617	 INFO	 34840	 35304	LoadDisplayDevicesName	"\\.\DISPLAY20"
+18-02-2025	20:50:39.621	ERROR	 34840	 35304	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+18-02-2025	20:50:39.622	 INFO	 34840	 35304	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 26552437
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+18-02-2025	20:50:39.622	 INFO	 34840	 35304	LateInitialization	"Intialization finished"
+18-02-2025	20:52:14.161	 INFO	 15696	 34264	DllMain	"DLL_PROCESS_ATTACH Mon Oct  7 21:44:09 2024 11.3.2428.18"
+18-02-2025	20:52:14.164	 INFO	 15696	 34264	DllMain	"PROCESS ATTACHED"
+18-02-2025	20:52:14.166	 INFO	 15696	 35696	LateInitialization	"Intialization..."
+18-02-2025	20:52:14.167	 INFO	 15696	 35696	LoadDisplayDevicesName	"DisplayDevices : "
+18-02-2025	20:52:14.167	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY1"
+18-02-2025	20:52:14.168	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY2"
+18-02-2025	20:52:14.169	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY3"
+18-02-2025	20:52:14.170	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY4"
+18-02-2025	20:52:14.171	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY5"
+18-02-2025	20:52:14.172	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY6"
+18-02-2025	20:52:14.173	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY7"
+18-02-2025	20:52:14.174	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY8"
+18-02-2025	20:52:14.175	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY9"
+18-02-2025	20:52:14.176	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY10"
+18-02-2025	20:52:14.177	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY11"
+18-02-2025	20:52:14.178	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY12"
+18-02-2025	20:52:14.179	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY13"
+18-02-2025	20:52:14.180	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY14"
+18-02-2025	20:52:14.181	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY15"
+18-02-2025	20:52:14.182	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY16"
+18-02-2025	20:52:14.182	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY17"
+18-02-2025	20:52:14.183	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY18"
+18-02-2025	20:52:14.184	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY19"
+18-02-2025	20:52:14.185	 INFO	 15696	 35696	LoadDisplayDevicesName	"\\.\DISPLAY20"
+18-02-2025	20:52:14.187	ERROR	 15696	 35696	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+18-02-2025	20:52:14.188	 INFO	 15696	 35696	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 26647000
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+18-02-2025	20:52:14.189	 INFO	 15696	 35696	LateInitialization	"Intialization finished"
+18-02-2025	20:53:40.732	 INFO	 35404	 35188	DllMain	"DLL_PROCESS_ATTACH Mon Oct  7 21:44:09 2024 11.3.2428.18"
+18-02-2025	20:53:40.736	 INFO	 35404	 35188	DllMain	"PROCESS ATTACHED"
+18-02-2025	20:53:40.737	 INFO	 35404	 25384	LateInitialization	"Intialization..."
+18-02-2025	20:53:40.738	 INFO	 35404	 25384	LoadDisplayDevicesName	"DisplayDevices : "
+18-02-2025	20:53:40.739	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY1"
+18-02-2025	20:53:40.740	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY2"
+18-02-2025	20:53:40.742	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY3"
+18-02-2025	20:53:40.743	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY4"
+18-02-2025	20:53:40.744	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY5"
+18-02-2025	20:53:40.745	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY6"
+18-02-2025	20:53:40.747	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY7"
+18-02-2025	20:53:40.748	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY8"
+18-02-2025	20:53:40.749	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY9"
+18-02-2025	20:53:40.750	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY10"
+18-02-2025	20:53:40.752	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY11"
+18-02-2025	20:53:40.753	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY12"
+18-02-2025	20:53:40.754	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY13"
+18-02-2025	20:53:40.755	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY14"
+18-02-2025	20:53:40.757	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY15"
+18-02-2025	20:53:40.758	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY16"
+18-02-2025	20:53:40.758	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY17"
+18-02-2025	20:53:40.759	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY18"
+18-02-2025	20:53:40.760	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY19"
+18-02-2025	20:53:40.761	 INFO	 35404	 25384	LoadDisplayDevicesName	"\\.\DISPLAY20"
+18-02-2025	20:53:40.766	ERROR	 35404	 25384	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+18-02-2025	20:53:40.768	 INFO	 35404	 25384	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 26733578
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+18-02-2025	20:53:40.769	 INFO	 35404	 25384	LateInitialization	"Intialization finished"
